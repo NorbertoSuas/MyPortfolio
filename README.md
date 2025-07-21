@@ -52,5 +52,5 @@
 <div align="center">
   <b>Minimalismo. Elegancia. Profesionalismo.</b>
   <br/>
-  <sub>Portafolio en tonos blanco y negro — desarrollado por Norberto Suaste</sub>
+  <sub>Desarrollado por Norberto Suaste</sub>
 </div>
