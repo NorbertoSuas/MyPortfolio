@@ -1,56 +1,53 @@
 # MyPortfolio
 
-> _Portafolio de proyectos avanzados de programación_
 
----
-
-## Repositorios Destacados
+## Featured Repositories
 
 ### ◼️ CodelumPOS
 
-**Sistema moderno de Punto de Venta (POS) construido con .NET 9 y Arquitectura Hexagonal.**
+**A modern Point of Sale (POS) system built with .NET 9 and Hexagonal Architecture.**
 
-- Arquitectura desacoplada y escalable (Ports & Adapters)
-- Soporte para SQL Server y PostgreSQL
-- Seguridad avanzada: JWT, BCrypt, validaciones y CORS
-- Observabilidad: OpenTelemetry, logging estructurado y health checks
-- API RESTful para gestión de usuarios, autenticación y operaciones de negocio
-- Pruebas unitarias, de integración y rendimiento
-- Pensado para despliegue empresarial y monitoreo en la nube
+- Decoupled and scalable architecture (Ports & Adapters)
+- Support for SQL Server and PostgreSQL
+- Advanced security: JWT, BCrypt, validation, and CORS
+- Observability: OpenTelemetry, structured logging, and health checks
+- RESTful API for user management, authentication, and business operations
+- Unit, integration, and performance testing
+- Designed for enterprise deployment and cloud monitoring
 
-<sub>_Tecnologías: .NET 9, Dapper, OpenTelemetry, JWT, Docker, AWS RDS, AutoMapper, FluentValidation_</sub>
+<sub>_Technologies: .NET 9, Dapper, OpenTelemetry, JWT, Docker, AWS RDS, AutoMapper, FluentValidation_</sub>
 
 ---
 
 ### ◼️ CodelumPOS_Diagram_Database
 
-**Diagrama de base de datos para CodelumPOS en formato PlantUML (PUML).**
+**Database diagram for CodelumPOS in PlantUML (PUML) format.**
 
-- Visualización clara y profesional de la estructura de datos
-- Facilita la comprensión y documentación del modelo relacional
-- Útil para onboarding y mantenimiento de la base de datos
+- Clear and professional visualization of the data structure
+- Facilitates understanding and documentation of the relational model
+- Useful for onboarding and database maintenance
 
-<sub>_Formato: PlantUML (PUML)_</sub>
+<sub>_Format: PlantUML (PUML)_</sub>
 
 ---
 
 ### ◼️ Recruitment App
 
-**Aplicación web moderna para la gestión de procesos de RRHH, vacantes y candidatos.**
+**Modern web application for managing HR processes, job vacancies, and candidates.**
 
-- Autenticación segura y control de roles (Admin, HR)
-- Paneles responsivos y personalizables (modo claro/oscuro)
-- Gestión integral de vacantes y candidatos
-- API RESTful con JWT y MongoDB
-- Notificaciones por email y manejo de archivos
-- Documentación de API y soporte activo
+- Secure authentication and role control (Admin, HR)
+- Responsive and customizable dashboards (light/dark mode)
+- Comprehensive management of vacancies and candidates
+- RESTful API with JWT and MongoDB
+- Email notifications and file handling
+- API documentation and active support
 
-<sub>_Tecnologías: Node.js, Express, MongoDB, JWT, React (frontend), Docker_</sub>
+<sub>_Technologies: Node.js, Express, MongoDB, JWT, React (frontend), Docker_</sub>
 
 ---
 
 <div align="center">
-  <b>Minimalismo. Elegancia. Profesionalismo.</b>
+  <b>Minimalism. Elegance. Professionalism.</b>
   <br/>
-  <sub>Desarrollado por Norberto Suaste</sub>
+  <sub>Portfolio in black and white tones — developed by Norberto Suaste</sub>
 </div>
