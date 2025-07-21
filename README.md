@@ -1,7 +1,7 @@
 # MyPortfolio
 
 
-### ◼️ CodelumPOS  🖥️
+### ◼️ Restaurant Point of sale  🖥️
 
 <p align="center">
   <img src="./WhatsApp Image 2025-07-19 at 19.18.52_1330136c.jpg" width="70%" alt="CodelumPOS Banner"/>
