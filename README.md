@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-  <b>Minimalism. Elegance. Professionalism.</b>
+  <b>Minimalism. Elegance. Professionalism. Security</b>
   <br/>
-  <sub>Portfolio in black and white tones — developed by Norberto Suaste</sub>
+  <sub>Developed by Norberto Suaste</sub>
 </div>
