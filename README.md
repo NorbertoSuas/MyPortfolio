@@ -1,6 +1,5 @@
 # MyPortfolio
 
-## Featured Repositories
 
 ### ◼️ CodelumPOS  🖥️
 
